@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [vaydns-client-windows-amd64](./vaydns-client-windows-amd64)
 
 ---
 
